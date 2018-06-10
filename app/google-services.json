@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "866746777262",
+    "firebase_url": "https://mypopularmovieapp.firebaseio.com",
+    "project_id": "mypopularmovieapp",
+    "storage_bucket": "mypopularmovieapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866746777262:android:cf3150f5b636dc98",
+        "android_client_info": {
+          "package_name": "mypopularmovieapp.thiagoxtapps.com.mypopularmovieapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "866746777262-1cel0ccvlnsqskhed9i62ml4ire91kds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mypopularmovieapp.thiagoxtapps.com.mypopularmovieapp",
+            "certificate_hash": "297c344b9e0ca19d6fbc835bfca739067c15e69a"
+          }
+        },
+        {
+          "client_id": "866746777262-965nv9pths6in2fl05c67ukplp14knma.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "866746777262-965nv9pths6in2fl05c67ukplp14knma.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7LAZo4BN_bRDY_55aDHl4AKr6Qlao1Co"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "866746777262-965nv9pths6in2fl05c67ukplp14knma.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

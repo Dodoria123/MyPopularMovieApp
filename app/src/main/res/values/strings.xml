@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">MyPopularMovieApp</string>
+    <string name="action_settings">Most Popular</string>
+    <string name="action_favorites">Favorites</string>
+    <string name="name_movie">Movie Title</string>
+    <string name="movie_details">Movie Details</string>
+    <string name="plot">Plot Synopsis</string>
+    <string name="rating">User Rating</string>
+    <string name="release">Release Date</string>
+    <string name="pref_sort_order_label">Sort Order</string>
+    <string name="pref_sort_order_key">sortOrder</string>
+    <string name="pref_most_popular">Most Popular</string>
+    <string name="pref_highest_rated">Highest Rated</string>
+    <string name="base_img_url">https://image.tmdb.org/t/p/w500</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="sing_up_link">     <u>Not registered yet? Sign In here.</u></string>
 </resources>
